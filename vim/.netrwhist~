@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/usr/share/vim/vim92/tutor/en'
+let g:netrw_dirhist_3='/boot/grub/fonts'
+let g:netrw_dirhist_2='/boot/grub'
+let g:netrw_dirhist_1='/boot/grub/themes'
+let g:netrw_dirhist_0='/boot/grub/themes/starfield'
+let g:netrw_dirhist_9='/boot/grub/themes'
+let g:netrw_dirhist_8='/boot/grub/themes/gentoo_minimalist'
+let g:netrw_dirhist_7='/boot/grub/themes'
+let g:netrw_dirhist_6='/boot/grub/themes/gentoo_glass'
+let g:netrw_dirhist_5='/boot/grub/themes'
